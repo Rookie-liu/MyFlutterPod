@@ -1,2 +1,0 @@
-# MyFlutterPod
-MyFlutterPod
